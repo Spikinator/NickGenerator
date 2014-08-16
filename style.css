@@ -57,4 +57,13 @@ h1 {
 	overflow: scroll;
 }
 
-
+button {
+	width: auto;
+	height: auto;
+	padding: 3px;
+	background-color: white;
+	color: black;
+	font-family: 'Open Sans';
+	font-size: 14px;
+	margin: 5px;
+}
