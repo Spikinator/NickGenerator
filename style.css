@@ -68,4 +68,15 @@ h1 {
 	overflow: scroll;
 }
 
+p {
+	color: white;
+	font-size: 18px;
+	font-family: 'Oswald';
+
+}
+
+p > a {
+	color: cyan;
+}
+
 
