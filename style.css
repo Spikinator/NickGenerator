@@ -68,14 +68,14 @@ h1 {
 	overflow: scroll;
 }
 
-p {
+#link {
 	color: white;
 	font-size: 18px;
 	font-family: 'Oswald';
 
 }
 
-p > a {
+#link > a {
 	color: cyan;
 }
 
